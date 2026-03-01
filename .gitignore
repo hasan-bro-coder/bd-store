@@ -11,7 +11,7 @@ note
 /node_modules
 /.pnp
 .pnp.js
-
+pnpm-lock.yaml
 # testing
 /coverage
 

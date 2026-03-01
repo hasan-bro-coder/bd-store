@@ -23,7 +23,6 @@
   },
   "dependencies": {
     "@medusajs/admin-sdk": "2.12.3",
-    "@medusajs/cache-inmemory": "^2.13.3",
     "@medusajs/cli": "2.12.3",
     "@medusajs/framework": "2.12.3",
     "@medusajs/medusa": "2.12.3"
